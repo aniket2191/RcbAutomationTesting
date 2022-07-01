@@ -1,0 +1,20 @@
+************Start_TC01_ValidateForeignPlayers****************
+Validation for team has only four foreign players requirement..
+Total Number Of foreign Players : 4
+Team has Only four foreign Players.. 
+************End_TC01_ValidateForeignPlayers****************
+************Start_TC02_ValidateWicketKeeper****************
+Validation for the at least one wicket-keeper requirement..
+Total Number Of Wicket-keepers : 1
+Team has at least one Wicket-Keeper 
+************End_TC02_ValidateWicketKeeper****************
+************Start_TC01_ValidateForeignPlayers****************
+Validation for team has only four foreign players requirement..
+Total Number Of foreign Players : 4
+Team has Only four foreign Players.. 
+************End_TC01_ValidateForeignPlayers****************
+************Start_TC02_ValidateWicketKeeper****************
+Validation for the at least one wicket-keeper requirement..
+Total Number Of Wicket-keepers : 1
+Team has at least one Wicket-Keeper 
+************End_TC02_ValidateWicketKeeper****************
