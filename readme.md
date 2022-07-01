@@ -46,9 +46,9 @@ To run this project,follow the following steps:
 4.Run As>TestNG Suite 
 
 ## Reporting and Logging
- 1.Report is generated whenever you run the project
- 2.It is saved into reports folder of project.(refresh the folder to get report)
- 3.To refresh folder>right click on folder>refresh
- 4.Log file is stored into logs folder(refresh the folder to get log file)
+ 1.Report is generated whenever you run the project.
+ 2.Report is saved into reports folder of project.(refresh the folder to get report).
+ 3.To refresh folder>right click on folder>refresh.
+ 4.Log file is stored into logs folder(refresh the folder to get log file).
 
 
